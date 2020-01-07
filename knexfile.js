@@ -6,7 +6,7 @@ module.exports = {
     client: 'sqlite3',
     useNullAsDefault:true,
     connection: {
-      filename: './cars.db3' // This file is the location of our DB
+      filename: './data/car-dealer.db3' // This file is the location of our DB
     }
   },
 
